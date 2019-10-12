@@ -1,0 +1,207 @@
+body
+{
+    background: #484848;
+    padding: 10px;
+}
+
+.top
+{
+    width: 75%;
+    background: #8f8f8f;
+    height: 140px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 5px;
+    border-radius: 10px; 
+    box-shadow: 10px 15px 10px; black;
+
+}
+#day_of_the
+{
+    width : 40%; 
+    height : 130px;
+    float: left;
+}
+#reload
+{
+    float: right;
+    margin-top: -15px;
+    width: 23px;
+    height: 23px;
+}
+#close
+{
+    float: right;
+}
+#magnify
+{
+    float: right;
+    margin-top: -98px;
+}
+.close
+{
+    margin-top: 120px;
+}
+
+.leftside
+{
+    background: #8f8f8f;
+    border-radius: 10px; 
+    box-shadow: 10px 10px 10px black;
+    margin-top: 30px;
+    margin-left: 210px;
+    height: 480px;
+    width: 9%;
+}
+#arrow
+{
+    width: 55%;
+    height: 90px;
+    margin-left: 40px;
+    margin-right: 10px;
+}
+#arrow:hover
+{
+    border: 5px solid red;
+}
+#hand
+{
+    width: 55%;
+    height: 90px;
+    margin-left: 40px;
+}
+#hand:hover
+{
+    border: 5px solid red;
+}
+#eye:hover
+{
+    border: 5px solid red;
+}
+#eye
+{
+    margin-left: 40px;
+    width: 55%;
+    height: 90px;
+}
+#tools
+{
+    width: 55%;
+    height: 90px;
+    margin-left: 40px;
+}
+#tools:hover
+{
+    border: 5px solid red;
+}
+#chat
+{
+    width: 55%;
+    height: 90px;
+    margin-left: 40px;
+}
+#chat:hover
+{
+    border: 5px solid red;
+}
+
+.middle
+{
+    border-radius: 10px; 
+    box-shadow: 10px 10px 10px; black;
+    width: 1000px;
+    height: 600px;
+    background: #8f8f8f;
+    margin-left: 410px;
+    margin-top: -480px;
+}
+#cluster
+{
+    width: 97%;
+    height: 570px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.rightside
+{
+    background: #8f8f8f;
+    border-radius: 10px; 
+    box-shadow: 10px 10px 10px black;
+    height: 480px;
+    width: 9%;
+    float: right;
+    margin-top: -599px;
+    margin-right: 250px;
+}
+#book
+{
+    width: 60%;
+    height: 110px;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+#towel
+{
+    width: 60%;
+    height: 90px;
+    margin-left: 40px;
+}
+#brick
+{
+    width: 90%;
+    height: 110px;
+    margin-left: 10px;
+}
+
+.text
+{
+    position: absolute;
+    border-radius: 10px;
+    box-shadow: 10px 10px black;
+    background: rgb(135, 223, 135);
+    width: 520px;
+    height: 190px;
+    margin-left: 100px;
+    margin-top: -60px;
+}
+#parafirst
+{
+    margin-top: px;;
+    margin-left: 15px;
+    font-size: 21px;
+}
+#entrez
+{
+    font-size: 32px;
+}
+#parasecond
+{
+    font-size: 21px;
+    margin-left: 15px;
+    margin-top: -21px;
+    text-shadow: 2px 5px #ff0000;
+}
+#parathird
+{
+    font-size: 21px;
+    margin-top: -14px;
+    margin-left: 15px;
+    font-style: italic;
+}
+.specialbox
+{
+    margin-left: 15px;
+    margin-top: -20px;
+    width : 505px;
+    height: 40px;
+    background: rgb(135, 223, 135);
+}
+#button
+{
+    width: 80px;
+    height: 22px;
+    float: right;
+    margin-right: 60px;
+    border-radius: 5px;
+}

@@ -1,0 +1,193 @@
+*
+{
+    margin: 0;
+}
+.elem
+{
+    width: 100px;
+    height: px;
+    border: 1px solid #000000;
+    border-collapse: collapse;
+}
+@media (max-width: 2470px)
+{
+    .elem{
+        width: 100px;
+    }
+}
+@media(max-width: 2290px)
+{
+    .elem{
+        width: 90px;
+    }
+}
+@media(max-width: 2110px)
+{
+    .elem{
+        width: 80px;
+    }
+}
+@media(max-width: 1930px)
+{
+    .elem{
+        width: 70px;
+    }
+}
+@media(max-width: 1750px)
+{
+    .elem{
+        width: 60px;
+    }
+    .elemweight
+    {
+        font-size: 16px;
+    }
+}
+@media(max-width: 1560px)
+{
+    .elem{
+        width: 50px;
+    }
+    .elemweight
+    {
+        font-size: 16px;
+    }
+    .elemsymbol
+    {
+        font-size: 25px;
+    }
+}
+@media(max-width: 1380px)
+{
+    .elem{
+        width: 40px;
+    }
+    .elemweight
+    {
+        font-size: 14px;
+    }
+    .elemsymbol
+    {
+        font-size: 20px;
+    }
+    .elemnumber
+    {
+        font-size: 14px;
+    }
+}
+@media(max-width: 1248px)
+{
+    .elem{
+        width: 30px;
+    }
+    .elemweight
+    {
+        font-size: 10px;
+    }
+    .elemsymbol
+    {
+        font-size: 18px;
+    }
+    .elemnumber
+    {
+        font-size: 12px;
+    }
+}
+@media(max-width: 1158px)
+{
+    .elem{
+        width: 30px;
+    }
+    .elemweight
+    {
+        font-size: 10px;
+    }
+    .elemsymbol
+    {
+        font-size: 18px;
+    }
+    .elemnumber
+    {
+        font-size: 12px;
+    }
+}
+@media(max-width: 982px)
+{
+    .elem{
+        width: 20px;
+    }
+    .elemweight
+    {
+        font-size: 7px;
+    }
+    .elemsymbol
+    {
+        font-size: 12px;
+    }
+    .elemnumber
+    {
+        font-size: 10px;
+    }
+}
+.elemnumber
+{
+    text-align: left;
+}
+.elemweight
+{
+    margin: 4%;
+    text-align: right;
+}
+.elemsymbol
+{
+    text-align: center;
+}
+#table2
+{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.lightgreen
+{
+    background: lightgreen;
+}
+.green
+{
+    background: green;
+}
+.royalblue
+{
+    background: royalblue;
+}
+.purple
+{
+    background: purple;
+}
+.pink
+{
+    background: palevioletred;
+}
+.brightgreen
+{
+    background: greenyellow;
+}
+.red
+{
+    background: red;
+}
+.orange
+{
+    background: lightsalmon;
+}
+.blue
+{
+    background: lightskyblue;
+}
+.yellow
+{
+    background: yellow;
+}
+#image
+{
+    text-align: center;
+}
